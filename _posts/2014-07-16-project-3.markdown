@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: GGChapters.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: GlamourGals is made up of teen-based chapters in and outside the USA that give "complimentary beauty makeovers and companionship to women living in senior homes." GGChapters.org is the organizations <em>private</em> social network, where the teen volunteers share stories, photos, and videos, connect with each other for inspiration and support, schedule events, submit reports, and request makeover supplies. The site also doubles as a means for the organization to manage the chapters and volunteers, and to collect information necessary for board meetigns and grant applications. I built GGChapters.org from scratch with a design provided by a graphic designer, and I was also involved for years with helping to manage the organization's main site, GlamourGals.org, as well as other internal projects.
+
+---

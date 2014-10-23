@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: grantr.png
+alt: image-alt
+project-date: April 2014
+client: Good Done Great
+category: Web Development
+description: Grantr.com helps foundations and donors stay current on nonprofit organization's tax exempt statues. Users can add organizations to their watch-lists to receive reliable and timely email updates when their statuses change. Grantr consumes the IRS's Publication 78 and BMF data files on a daily basis to process over two million records in order to stay current. I built Grantr from scratch with a design provided by a graphic designer.
+
+---

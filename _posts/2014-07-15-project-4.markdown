@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: soepi.png
+alt: image-alt
+project-date: April 2014
+client: SoEpi
+category: Web Development
+description: "SoEpi was a nonprofit dedicated to improving health via online social epidemiology. SoEpi's goal was to empower the public in understanding public health issues and taking action to solve them. SoEpi provided four free online services to the public, including: (1) anonymous surveys, (2) an open database of survey results, (3) R‐based analysis and reporting, and (4) communication and collaboration tools. I designed and developed the entire platform. After spending a year on the platform, we shut it down not long after launching as we had run out of resources. SoEpi may very well come back at some point in one shape or another. The code was open-sourced at <a href='https://github.com/jridgway/soepi'>https://github.com/jridgway/soepi</a>."
+
+---

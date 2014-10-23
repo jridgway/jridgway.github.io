@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: coolvines.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: CoolVines sells wine, beer and spirits in Princeton and Westfield, NJ as well as online. I built CoolVines.com and its bridge with the various in-store databases from scratch with a design provided by a graphic designer. At CoolVines.com, customers can shop for wine, rate wines in their public/private journal, view their in-store purchases, build attitude packs, buy gift certificates and tickets to events, and more.
+
+---

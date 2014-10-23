@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: nat.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description:  The mission of the Trust for Architectural Easements is to preserve America's architectural heritage. We accomplish this mission primarily through the acceptance and stewardship of historic preservation easements." As my very first project as a contractor, I designed and built a private easement tracking and management database for the Architectural Trust from scratch with many striking similarities to Ruby on Rails long before its time.
+
+---

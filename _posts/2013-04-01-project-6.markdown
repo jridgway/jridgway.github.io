@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2013-04-1
+img: 4good.png
+alt: image-alt
+project-date: April 2013
+client: 4Good
+category: Web Development
+description: 4Good is a social network for nonprofit professionals and organizations to share and sell resources and to connect and to collaborate with each other. 4Good hosts three weekly nonprofit webinars on a mix of topics presented by thought-leaders in the nonprofit space, which always bring in crowds from one to three hundred attendees and sometimes much more (see our <a href="https://4good.org/4good/upcoming-nonprofit-webinars">Upcoming Nonprofit Webinars</a> collection). 4Good was incubated in Good Done Great before it spun off in the summer of 2013. 4Good was initially led by myself, David Barach and Earl Bridges, but landed completely in my hands in July, 2014 when my parnters decided to focus soley on their other company, Good Done Great. 4Good has a bright future ahead of it with many new services and features. I built 4Good completely from scratch and continue to develop it on a daily basis.
+---
+
